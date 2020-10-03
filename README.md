@@ -1,1 +1,1 @@
-# nba-stangings-frontend
+# nba-standings-frontend
